@@ -1,0 +1,4 @@
+Password Check: Write a program which ask user to give a password and check if the password is strong. A strong password will have at least 8 characters, upper and lower case characters, digits, and special characters (!@#$%^&), at least one of each category. 
+Rock-Paper-Scissors. Write a program where user plays R, P, or S, then the system selects R, P, or S for the computer and display who wins. 
+Improve the previous program to keep the score and ask the user if the want to play again. Each time display the current score.
+Check if a word given by the user is a palindrome or not. Example of a palindromes: "kayak", "level", "was it a car or a cat i saw".
