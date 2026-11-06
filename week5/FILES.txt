@@ -1,0 +1,13 @@
+FILES
+Use the data.txt we created in class. Read the file and count how many words it contains (hint: read each line, split the line by the ' ' white space, and find the length of the generated list, then add it to a total). 
+Use the same file and count the number of characters in the file.
+Create a file students.csv with the following content:
+name,age,city,grade
+John Doe,15,Queens,78
+Mike Williams,16,Manhattan,64
+Helen Brown,15,New Paltz,90
+George Smith,16,Saratoga Springs,88
+Peter Gibbs,15,New York,56
+Then write a program to print the name of students who failed (grade less than 70), the average grade of the class, the name and the city of the student with the highest grade.
+Use the previous file, then write a program for the data of a new student and append the new student into the file.
+Use the previous file then create another file passed.csv and put the records of the students who passed in this file.

@@ -1,0 +1,5 @@
+FUNCTIONS
+Write two functions to calculate and return a) the square, b) the cube of a given number. 
+Write a function letter_grade(grade) which will receive a number 0-100 and return the letter grade according to this table:
+
+Write a function to count and return the digits in a string count_digits(s). For example count_digits('abc3ui6bc8p') should return 3.
