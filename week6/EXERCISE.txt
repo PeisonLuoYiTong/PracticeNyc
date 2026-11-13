@@ -1,0 +1,14 @@
+The CEO of your company, known as "the pointy-hair boss" (see pointyhairchud.png) wants an application to track his personal expenses.
+
+The expenses will be kept in a csv file with the following data: 
+category,amount,datetime
+ 
+The categories should be loaded from another file, categories.csv, so that more categories can be added easily. 
+ 
+The options of the application menu will be:
+1. Add expense
+2. Total expenses of category
+3. Total expenses
+0. EXIT
+ 
+Design and implement this application. 
