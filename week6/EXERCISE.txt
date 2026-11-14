@@ -1,4 +1,4 @@
-The CEO of your company, known as "the pointy-hair boss" (see pointyhairchud.png) wants an application to track his personal expenses.
+The CEO of your company, known as "the pointy-hair boss" (see plan.png) wants an application to track his personal expenses.
 
 The expenses will be kept in a csv file with the following data: 
 category,amount,datetime
